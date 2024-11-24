@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/lenjjiv/Pretrain-GPT.git
-cd gpt2-ru-finetuning
+cd Pretrain-GPT
 ```
 
 2. Создайте виртуальное окружение и активируйте его:
