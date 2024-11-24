@@ -11,11 +11,11 @@ def get_model_config(vocab_size):
         GPT2Config: Конфигурация модели
     """
     return GPT2Config(
-        vocab_size=vocab_size,  # размер словаря
-        n_positions=1024,       # максимальная длина последовательности
-        n_embd=768//2,         # размер эмбеддингов
-        n_layer=12,            # количество слоев
-        n_head=12,             # количество голов внимания
+        vocab_size=vocab_size,
+        n_positions=1024,
+        n_embd=768//2,
+        n_layer=12,
+        n_head=12,
         activation_function='gelu'
     )
 
