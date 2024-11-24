@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/gpt2-ru-finetuning.git
+git clone https://github.com/lenjjiv/Pretrain-GPT.git
 cd gpt2-ru-finetuning
 ```
 
